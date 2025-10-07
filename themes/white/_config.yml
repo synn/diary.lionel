@@ -76,12 +76,12 @@ contact:
   Github:
     - https://github.com/synn
     - ri-github-fill
-  Telegram:
-    - https://t.me/sssynn
-    - ri-telegram-fill
-  Bitcoin:
-    - ''
-    - ri-bit-coin-fill
+  # Telegram:
+  #   - https://t.me/sssynn
+  #   - ri-telegram-fill
+  # Bitcoin:
+  #   - ''
+  #   - ri-bit-coin-fill
   Email:
     - mailto:i@synn.me
     - ri-mail-send-fill
