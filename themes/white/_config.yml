@@ -65,10 +65,10 @@ search:
 
 # 自我介绍
 intro:
-  title: Hi, I'm Synn.
-  sub: 'A few words from [Synn](https://synn.me/).' # markdown语法
+  title: Hi, I'm Lionel.
+  sub: 'A few words from [Lionel](https://lio.crz.one/).' # markdown语法
   avator: https://cdn.jsdelivr.net/gh/fushaolei/img/20200524104925.jpg #头像 暂时还没用到
-  author: Synn #所有文章的默认作者
+  author: Lionel #所有文章的默认作者
 
 #联系方式
 #更多图标：https://remixicon.com/
